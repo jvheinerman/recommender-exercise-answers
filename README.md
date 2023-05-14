@@ -21,7 +21,7 @@ conda activate breinstein
 conda install numpy
 conda install pandas
 conda install seaborn
-conda install collections
+conda install collection
 conda install surprise
 conda install -c anaconda scikit-learn
 conda install -c conda-forge jupyterlab
